@@ -5,7 +5,7 @@ function MapSatAltitude( argin )
 %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 quiet = false;				%% defaults to false
-argv_style = 'forum';		%% defaults to forum output
+argv_style = 'markdown';		%% defaults to forum output
 tables_only = false;		%% usually, we accompany our tables with extra info.
 debug = false;				%% this is only for developers, to print extra stuffs
 graphExt = '.png';          %% graphics file extention
@@ -694,13 +694,14 @@ switch (argv_style)
 	case 'csv-github'
 		disp('Planet,Scanner,UEQx,Sidelap,Altitude,SMA,Inclination,OrbitalPeriod,ScanTime,EffFOV');
 	case 'markdown'
-		disp(' UEQx|Sidelap| Altitude |    Error  | Inc.    | O. Period| Scan Time |    Error| FOV  |Swath|Res (°)|Res (m)');
-		disp('-----|-------|----------|-----------|---------|----------|-----------|---------|------|-----|-------|--------');
-		%%%%%%    17 (1.10)  782.176 km +/- 1.51 km (80.07°)   6h 38.9m    96h 24.4m +/- 13.4m (3.5°)  14 m (0.07°) 0.238 km
-		%%%%%%    18 (1.09)  739.453 km +/- 1.53 km (80.72°)   6h 13.2m    96h 24.0m +/- 14.1m (3.4°)  13 m (0.06°) 0.221 km
-		%%%%%%    19 (1.04)  701.102 km +/- 1.56 km (81.29°)   5h 50.5m    96h 23.5m +/- 15.0m (3.2°)  11 m (0.06°) 0.199 km
-		%%%%%%    23 (1.24)  695.092 km +/- 1.57 km (81.37°)   5h 47.0m   115h 40.0m +/- 18.3m (3.2°)  11 m (0.06°) 0.195 km
-		%%%%%%    25 (1.16)  639.982 km +/- 1.62 km (82.16°)   5h 15.4m   115h 39.2m +/- 20.1m (3.0°)   9 m (0.05°) 0.165 km
+		disp(' UEQx  |Sidelap| Altitude   | Error      | Inc.    | O. Period | Scan Time   | Error    | FOV   | Swa. | Res (°)| Res (m)');
+		disp('|------|-------|------------|------------|---------|-----------|-------------|----------|-------|------|--------|--------');
+		%%%%%%|  1305| (1.25)|   11.098 km| +/- 0.03 km| (89.96°)|   0h 34.0m|   369h 58.6m| +/- 03.8m| (7.7°)|   0 m| (0.00°)| 7.51 m
+		%%%%%%|  1307| (1.22)|   10.940 km| +/- 0.26 km| (89.96°)|   0h 34.0m|   369h 58.5m| +/- 32.9m| (7.7°)|   0 m| (0.00°)| 7.41 m
+		%%%%%%|  1309| (1.19)|   10.673 km| +/- 0.26 km| (89.96°)|   0h 33.9m|   369h 58.3m| +/- 32.9m| (7.7°)|   0 m| (0.00°)| 7.23 m
+		%%%%%%|  1311| (1.16)|   10.405 km| +/- 0.26 km| (89.96°)|   0h 33.9m|   369h 58.0m| +/- 32.9m| (7.7°)|   0 m| (0.00°)| 7.05 m
+		%%%%%%|  1313| (1.13)|   10.138 km| +/- 0.26 km| (89.96°)|   0h 33.8m|   369h 57.6m| +/- 33.0m| (7.7°)|   0 m| (0.00°)| 6.86 m
+		%%%%%%|  1315| (1.11)|    9.881 km| +/- 0.25 km| (89.96°)|   0h 33.8m|   369h 58.4m| +/- 31.7m| (7.7°)|   0 m| (0.00°)| 6.69 m
 	otherwise
 		printf('\ninvalid output-style: %s is not one of: [text, csv, csv-github, markdown, forum]\n',argv_style);
 		return;
@@ -846,23 +847,24 @@ for i = flipdim(1:length(zoneStart),2)
 		case 'markdown'
 			qqq = '';
 		   %qqq = [qqq sprintf('%4i',			i)];
-			qqq = [qqq sprintf('|%5d',			orbitRatD(minalti))];
-			qqq = [qqq sprintf('|(%4.2f)', 		orbitRatD(minalti)./idealThreshold(minalti))];
+			qqq = [qqq sprintf('| %5d',			orbitRatD(minalti))];
+			qqq = [qqq sprintf('| (%4.2f)', 		orbitRatD(minalti)./idealThreshold(minalti))];
 		   %qqq = [qqq sprintf('|%7.3f km',		sma/1000)];
-			qqq = [qqq sprintf('|%8.3f km',		meanta/1000)];
-			qqq = [qqq sprintf('|+/- %3.2f km',	altRa/1000)];
-			qqq = [qqq sprintf('|(%03.2f°)',	tgtInclination(altii))];
-			qqq = [qqq sprintf('|%3dh %04.1fm',	round(OPH0),OPM0)];
-			qqq = [qqq sprintf('|%5dh %04.1fm',	round(H0),M0)];
-			qqq = [qqq sprintf('|+/- %04.1fm',	Md)];
-			qqq = [qqq sprintf('|(%3.1f°)',		dispfov)];
-			qqq = [qqq sprintf('|% 3.0f m',		sw)];
-			qqq = [qqq sprintf('|(%03.2f°)',	resd)];
+			qqq = [qqq sprintf('| %8.3f km',		meanta/1000)];
+			qqq = [qqq sprintf('| +/- %3.2f km',	altRa/1000)];
+			qqq = [qqq sprintf('| (%03.2f°)',	tgtInclination(altii))];
+			qqq = [qqq sprintf('| %3dh %04.1fm',	round(OPH0),OPM0)];
+			qqq = [qqq sprintf('| %5dh %04.1fm',	round(H0),M0)];
+			qqq = [qqq sprintf('| +/- %04.1fm',	Md)];
+			qqq = [qqq sprintf('| (%3.1f°)',		dispfov)];
+			qqq = [qqq sprintf('| % 3.0f m',		sw)];
+			qqq = [qqq sprintf('| (%03.2f°)',	resd)];
 
 			if resm < 100
-				qqq = [qqq sprintf('|%#2.2f m', resm)];
+				qqq = [qqq sprintf('| %#2.2f m', resm)];
 			else
-				qqq = [qqq sprintf('|%#4.3f km', resm/1000)];	
+				qqq = [qqq sprintf('| %#4.3f km', resm/1000)];	
+			end	qqq = [qqq sprintf('|%#4.3f km', resm/1000)];	
 			end			
 		otherwise
 			disp('Error: An unsupported format has been attempted.');
