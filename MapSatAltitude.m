@@ -863,8 +863,7 @@ for i = flipdim(1:length(zoneStart),2)
 			if resm < 100
 				qqq = [qqq sprintf('| %#2.2f m', resm)];
 			else
-				qqq = [qqq sprintf('| %#4.3f km', resm/1000)];	
-			end	qqq = [qqq sprintf('|%#4.3f km', resm/1000)];	
+				qqq = [qqq sprintf('| %#4.3f km', resm/1000)];
 			end			
 		otherwise
 			disp('Error: An unsupported format has been attempted.');
