@@ -2,7 +2,7 @@
 
 # small bodies get special treatment
 
-SCANNERS="RADAR Multi SAR ORS EPL"
+SCANNERS="AltLo1 AltLo2 AltHi1 AltHi2 AltHi3 ResLo0 ResHi0 ResHi1 ResHi2 ResHi3 ResHi4 Multi1 Multi2 Multi3 VisHi1 VisHi2 VisHi3"
 
 #rm -rf planets
 #mkdir planets
