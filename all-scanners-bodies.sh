@@ -76,4 +76,58 @@ do
 	mv $p_*.png planets
 	mv $p.txt planets
 done
+#holeblacK
+for p in "Ahtpan" "Anehta" "Anneleg" "Arorua" "Dipuc" "Efil" "Elad" "Enots" "Eulb" "Mehtna" "Meiuquer" "Noi" "Noira" "Norihc" "Noyreg" "Sedah" "Sera" "Suluco" "Tot" "Uleg" "Iomena" "Onrefni" "Rouqea"
+do
+	echo "on $p"
+	for s in $SCANNERS; do
+		./MapSatAltitude.sh -p $p -s $s -r Low -pp -q -os forum >> $p.txt
+	done
+	mv $p_*.png planets
+	mv $p.txt planets
+done
+# Quackpack
+for p in "Blas" "Cind" "Geet" "Jot" "Subon"
+do
+	echo "on $p"
+	for s in $SCANNERS; do
+		./MapSatAltitude.sh -p $p -s $s -r Low -pp -q -os forum >> $p.txt
+	done
+	mv $p_*.png planets
+	mv $p.txt planets
+done
+# OPM
+for p in "Hale" "Karen" "Neidon" "Nissee" "Ovok" "Plock" "Polta" "Priax" "Thatmo" "Slate" "Sarnus" "Tekto" "Urlum" "Tal" "Wal"
+do
+	echo "on $p"
+	for s in $SCANNERS; do
+		./MapSatAltitude.sh -p $p -s $s -r Low -pp -q -os forum >> $p.txt
+	done
+	mv $p_*.png planets
+	mv $p.txt planets
+done
 
+# MPE
+for p in "Archae" "Crokslev" "Edas" "Ervo" "Flake" "Geito" "Havous" "Kal" "Ki;Ki" "LintMikey" "Lon" "Mracksis" "Soden" "Vant" "Zore"
+do
+	echo "on $p"
+	for s in $SCANNERS; do
+		./MapSatAltitude.sh -p $p -s $s -r Low -pp -q -os forum >> $p.txt
+	done
+	mv $p_*.png planets
+	mv $p.txt planets
+done
+
+
+
+
+# OWR
+for p in "C2-1" "C3-1" "C4-1" "C4-2" "Crons" "Disole" "Kevari" "Nienna" "Niko" "Pequar" "Prima" "Secunda" "Troni" "Vassa"
+do
+	echo "on $p"
+	for s in $SCANNERS; do
+		./MapSatAltitude.sh -p $p -s $s -r Low -pp -q -os forum >> $p.txt
+	done
+	mv $p_*.png planets
+	mv $p.txt planets
+done
