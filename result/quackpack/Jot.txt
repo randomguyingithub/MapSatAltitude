@@ -1,0 +1,8 @@
+[size=4][b]Jot [ResLo0][/B][/SIZE][spoiler=Show ResLo0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+   119   198 (1.01) 5116.525 km +/- 2.02 km (78.34°)   4h 20.1m   429h 08.5m +/- 05.8m (3.0°)   2 m (0.01°) 1.340 km
+[/code][/spoiler]
+

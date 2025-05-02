@@ -1,0 +1,176 @@
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [AltLo1][/B][/SIZE][spoiler=Show AltLo1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [AltLo2][/B][/SIZE][spoiler=Show AltLo2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [AltHi1][/B][/SIZE][spoiler=Show AltHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [AltHi2][/B][/SIZE][spoiler=Show AltHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [AltHi3][/B][/SIZE][spoiler=Show AltHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [ResLo0][/B][/SIZE][spoiler=Show ResLo0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [ResHi0][/B][/SIZE][spoiler=Show ResHi0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [ResHi1][/B][/SIZE][spoiler=Show ResHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [ResHi2][/B][/SIZE][spoiler=Show ResHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [ResHi3][/B][/SIZE][spoiler=Show ResHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [Multi1][/B][/SIZE][spoiler=Show Multi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [Multi2][/B][/SIZE][spoiler=Show Multi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [Multi3][/B][/SIZE][spoiler=Show Multi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [VisHi1][/B][/SIZE][spoiler=Show VisHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [VisHi2][/B][/SIZE][spoiler=Show VisHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Uleg [VisHi3][/B][/SIZE][spoiler=Show VisHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+

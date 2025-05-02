@@ -1,0 +1,211 @@
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Disole [AltLo1][/B][/SIZE][spoiler=Show AltLo1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Disole [AltLo2][/B][/SIZE][spoiler=Show AltLo2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    33    62 (1.25)  337.280 km +/- 0.81 km (86.31°)   1h 55.4m    59h 37.5m +/- 07.4m (5.4°)   7 m (0.04°) 0.159 km
+    35    66 (1.24)  316.067 km +/- 0.28 km (86.51°)   1h 49.3m    60h 06.9m +/- 02.7m (5.4°)   7 m (0.03°) 0.149 km
+[/code][/spoiler]
+
+[size=4][b]Disole [AltHi1][/B][/SIZE][spoiler=Show AltHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    49    90 (1.10)  479.068 km +/- 0.83 km (84.90°)   2h 39.5m   119h 37.4m +/- 12.2m (2.3°)   4 m (0.02°) 96.84 m
+[/code][/spoiler]
+
+[size=4][b]Disole [AltHi2][/B][/SIZE][spoiler=Show AltHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    17    30 (1.08)  705.735 km +/- 10.79 km (82.35°)   3h 57.3m    59h 20.1m +/- 00.7m (4.6°)  13 m (0.07°) 0.287 km
+    19    34 (1.00)  634.345 km +/- 0.54 km (83.19°)   3h 33.0m    60h 21.1m +/- 03.3m (4.2°)  11 m (0.05°) 0.233 km
+    24    43 (1.21)  623.080 km +/- 5.48 km (83.32°)   3h 28.1m    74h 33.6m +/- 42.2m (4.1°)  10 m (0.05°) 0.225 km
+    26    47 (1.12)  572.205 km +/- 4.71 km (83.90°)   3h 10.3m    74h 31.3m +/- 38.5m (3.8°)   9 m (0.04°) 0.189 km
+    27    49 (1.08)  549.735 km +/- 0.21 km (84.14°)   3h 03.3m    74h 50.7m +/- 01.8m (3.6°)   8 m (0.04°) 0.175 km
+    29    53 (1.00)  509.715 km +/- 2.79 km (84.58°)   2h 49.3m    74h 46.7m +/- 24.7m (3.4°)   7 m (0.03°) 0.150 km
+    35    64 (1.19)  505.915 km +/- 2.65 km (84.62°)   2h 48.1m    89h 38.1m +/- 28.2m (3.3°)   7 m (0.03°) 0.148 km
+[/code][/spoiler]
+
+[size=4][b]Disole [AltHi3][/B][/SIZE][spoiler=Show AltHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    10    17 (1.05)  903.265 km +/- 17.43 km (79.84°)   5h 13.5m    44h 25.0m +/- 01.0m (6.2°)  22 m (0.11°) 0.493 km
+    11    19 (1.06)  820.705 km +/- 18.11 km (80.92°)   4h 40.1m    44h 21.4m +/- 08.2m (6.2°)  20 m (0.10°) 0.447 km
+    13    23 (1.08)  691.540 km +/- 17.58 km (82.52°)   3h 50.8m    44h 14.2m +/- 15.2m (6.2°)  17 m (0.09°) 0.376 km
+    14    25 (1.09)  642.820 km +/- 16.38 km (83.09°)   3h 33.2m    44h 25.1m +/- 14.2m (6.2°)  16 m (0.08°) 0.349 km
+    16    29 (1.09)  556.210 km +/- 12.71 km (84.07°)   3h 03.4m    44h 18.8m +/- 03.4m (6.2°)  14 m (0.07°) 0.302 km
+    17    31 (1.10)  523.015 km +/- 11.43 km (84.44°)   2h 52.3m    44h 30.9m +/- 59.7m (6.2°)  13 m (0.06°) 0.283 km
+    19    35 (1.00)  461.500 km +/- 8.52 km (85.09°)   2h 32.5m    44h 29.4m +/- 48.2m (5.7°)  10 m (0.05°) 0.230 km
+    27    50 (1.25)  427.810 km +/- 0.12 km (85.43°)   2h 23.1m    59h 38.1m +/- 00.9m (5.3°)   9 m (0.04°) 0.198 km
+    29    54 (1.14)  395.425 km +/- 4.04 km (85.75°)   2h 12.4m    59h 35.1m +/- 33.6m (4.9°)   8 m (0.04°) 0.169 km
+    31    58 (1.05)  365.770 km +/- 3.60 km (86.04°)   2h 03.5m    59h 40.3m +/- 31.4m (4.5°)   7 m (0.03°) 0.144 km
+[/code][/spoiler]
+
+[size=4][b]Disole [ResLo0][/B][/SIZE][spoiler=Show ResLo0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+     7     8 (1.19) 2779.200 km +/- 10.75 km (41.41°)  22h 24.2m    89h 36.6m +/- 28.7m (4.6°)  53 m (0.27°) 1.176 km
+     6     7 (1.00) 2683.950 km +/- 7.42 km (44.36°)  21h 22.3m    74h 48.0m +/- 17.1m (4.6°)  52 m (0.26°) 1.133 km
+     7     9 (1.05) 2229.550 km +/- 11.90 km (56.25°)  16h 34.7m    74h 36.3m +/- 32.3m (4.6°)  42 m (0.21°) 0.929 km
+     8    11 (1.10) 1918.825 km +/- 12.70 km (62.96°)  13h 33.2m    74h 32.8m +/- 39.4m (4.6°)  36 m (0.18°) 0.794 km
+     9    13 (1.14) 1690.025 km +/- 13.45 km (67.38°)  11h 27.6m    74h 29.1m +/- 46.7m (4.6°)  32 m (0.16°) 0.696 km
+    11    17 (1.20) 1372.000 km +/- 14.70 km (72.90°)   8h 44.9m    74h 22.0m +/- 01.0m (4.6°)  26 m (0.13°) 0.562 km
+    12    19 (1.22) 1255.925 km +/- 15.25 km (74.74°)   7h 49.3m    74h 18.4m +/- 08.1m (4.6°)  23 m (0.12°) 0.513 km
+    13    21 (1.25) 1152.700 km +/- 4.00 km (76.31°)   7h 04.3m    74h 14.7m +/- 19.1m (4.6°)  21 m (0.11°) 0.470 km
+    11    18 (1.01) 1095.200 km +/- 16.12 km (77.16°)   6h 35.7m    59h 21.7m +/- 04.5m (4.6°)  20 m (0.10°) 0.447 km
+    13    22 (1.04)  926.175 km +/- 16.65 km (79.53°)   5h 23.1m    59h 14.5m +/- 16.2m (4.6°)  17 m (0.09°) 0.377 km
+    15    26 (1.06)  803.225 km +/- 13.72 km (81.14°)   4h 34.1m    59h 23.6m +/- 10.2m (4.6°)  15 m (0.07°) 0.326 km
+    17    30 (1.08)  705.750 km +/- 10.78 km (82.35°)   3h 57.3m    59h 20.2m +/- 00.6m (4.6°)  13 m (0.07°) 0.287 km
+    19    34 (1.09)  630.225 km +/- 8.78 km (83.24°)   3h 30.0m    59h 30.6m +/- 53.7m (4.6°)  12 m (0.06°) 0.256 km
+    21    38 (1.09)  566.200 km +/- 7.25 km (83.96°)   3h 07.8m    59h 27.3m +/- 47.7m (4.6°)  10 m (0.05°) 0.230 km
+    23    42 (1.10)  514.200 km +/- 6.15 km (84.53°)   2h 50.2m    59h 35.2m +/- 43.3m (4.6°)   9 m (0.05°) 0.208 km
+    25    46 (1.02)  468.425 km +/- 5.29 km (85.01°)   2h 35.3m    59h 31.9m +/- 39.5m (4.3°)   8 m (0.04°) 0.178 km
+    34    63 (1.16)  426.300 km +/- 2.89 km (85.45°)   2h 22.2m    74h 39.6m +/- 28.7m (3.9°)   7 m (0.03°) 0.147 km
+    36    67 (1.08)  398.762 km +/- 2.61 km (85.72°)   2h 13.7m    74h 37.6m +/- 27.0m (3.7°)   6 m (0.03°) 0.129 km
+[/code][/spoiler]
+
+[size=4][b]Disole [ResHi0][/B][/SIZE][spoiler=Show ResHi0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    37    68 (1.10)  475.684 km +/- 2.39 km (84.94°)   2h 38.1m    89h 36.6m +/- 26.6m (3.1°)   6 m (0.03°) 0.128 km
+    41    76 (1.10)  424.238 km +/- 1.21 km (85.47°)   2h 21.8m    89h 49.3m +/- 14.5m (3.1°)   5 m (0.03°) 0.114 km
+    43    80 (1.09)  400.336 km +/- 0.53 km (85.71°)   2h 14.5m    89h 38.8m +/- 06.6m (3.1°)   5 m (0.02°) 0.108 km
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Disole [ResHi1][/B][/SIZE][spoiler=Show ResHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Disole [ResHi2][/B][/SIZE][spoiler=Show ResHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    31    57 (1.14)  472.781 km +/- 3.41 km (84.97°)   2h 37.0m    74h 35.1m +/- 31.7m (3.9°)   7 m (0.04°) 0.159 km
+    34    63 (1.14)  426.298 km +/- 2.89 km (85.45°)   2h 22.2m    74h 39.6m +/- 28.7m (3.9°)   7 m (0.03°) 0.144 km
+    36    67 (1.13)  398.761 km +/- 2.61 km (85.72°)   2h 13.7m    74h 37.7m +/- 27.0m (3.9°)   6 m (0.03°) 0.134 km
+    39    73 (1.13)  363.853 km +/- 0.21 km (86.06°)   2h 03.4m    75h 03.9m +/- 02.3m (3.9°)   6 m (0.03°) 0.123 km
+[/code][/spoiler]
+
+[size=4][b]Disole [ResHi3][/B][/SIZE][spoiler=Show ResHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    17    30 (1.08)  705.735 km +/- 10.78 km (82.35°)   3h 57.3m    59h 20.1m +/- 00.6m (4.6°)  13 m (0.07°) 0.287 km
+    19    34 (1.09)  630.218 km +/- 8.79 km (83.24°)   3h 30.0m    59h 30.6m +/- 53.8m (4.6°)  12 m (0.06°) 0.256 km
+    21    38 (1.09)  566.206 km +/- 7.27 km (83.96°)   3h 07.7m    59h 27.2m +/- 47.8m (4.6°)  10 m (0.05°) 0.230 km
+    23    42 (1.10)  514.206 km +/- 6.17 km (84.53°)   2h 50.2m    59h 35.1m +/- 43.5m (4.6°)   9 m (0.05°) 0.208 km
+    25    46 (1.02)  468.420 km +/- 5.29 km (85.01°)   2h 35.3m    59h 31.8m +/- 39.6m (4.3°)   8 m (0.04°) 0.178 km
+    34    63 (1.16)  426.300 km +/- 2.89 km (85.45°)   2h 22.2m    74h 39.6m +/- 28.7m (3.9°)   7 m (0.03°) 0.147 km
+    36    67 (1.08)  398.753 km +/- 2.60 km (85.72°)   2h 13.7m    74h 37.7m +/- 26.9m (3.7°)   6 m (0.03°) 0.129 km
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Disole [Multi1][/B][/SIZE][spoiler=Show Multi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Disole [Multi2][/B][/SIZE][spoiler=Show Multi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Disole [Multi3][/B][/SIZE][spoiler=Show Multi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    13    23 (1.08)  691.552 km +/- 17.58 km (82.52°)   3h 50.8m    44h 14.2m +/- 15.2m (6.2°)  17 m (0.09°) 0.376 km
+    14    25 (1.09)  642.828 km +/- 16.39 km (83.09°)   3h 33.2m    44h 25.1m +/- 14.3m (6.2°)  16 m (0.08°) 0.349 km
+    16    29 (1.09)  556.209 km +/- 12.70 km (84.07°)   3h 03.4m    44h 18.9m +/- 03.4m (6.2°)  14 m (0.07°) 0.302 km
+    17    31 (1.10)  523.020 km +/- 11.43 km (84.44°)   2h 52.3m    44h 30.9m +/- 59.7m (6.2°)  13 m (0.06°) 0.283 km
+    19    35 (1.00)  461.504 km +/- 8.52 km (85.09°)   2h 32.5m    44h 29.4m +/- 48.2m (5.7°)  10 m (0.05°) 0.230 km
+    27    50 (1.25)  427.821 km +/- 0.12 km (85.43°)   2h 23.1m    59h 38.1m +/- 00.9m (5.3°)   9 m (0.04°) 0.198 km
+    29    54 (1.14)  395.425 km +/- 4.04 km (85.75°)   2h 12.4m    59h 35.1m +/- 33.6m (4.9°)   8 m (0.04°) 0.169 km
+    31    58 (1.05)  365.772 km +/- 3.60 km (86.04°)   2h 03.5m    59h 40.3m +/- 31.4m (4.5°)   7 m (0.03°) 0.144 km
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Disole [VisHi1][/B][/SIZE][spoiler=Show VisHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Disole [VisHi2][/B][/SIZE][spoiler=Show VisHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    31    57 (1.14)  472.781 km +/- 3.41 km (84.97°)   2h 37.0m    74h 35.1m +/- 31.7m (3.9°)   7 m (0.04°) 0.159 km
+    34    63 (1.14)  426.298 km +/- 2.89 km (85.45°)   2h 22.2m    74h 39.6m +/- 28.7m (3.9°)   7 m (0.03°) 0.144 km
+    36    67 (1.13)  398.761 km +/- 2.61 km (85.72°)   2h 13.7m    74h 37.7m +/- 27.0m (3.9°)   6 m (0.03°) 0.134 km
+    39    73 (1.13)  363.853 km +/- 0.21 km (86.06°)   2h 03.4m    75h 03.9m +/- 02.3m (3.9°)   6 m (0.03°) 0.123 km
+[/code][/spoiler]
+
+[size=4][b]Disole [VisHi3][/B][/SIZE][spoiler=Show VisHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    10    17 (1.05)  903.268 km +/- 17.44 km (79.84°)   5h 13.5m    44h 24.9m +/- 01.0m (6.2°)  22 m (0.11°) 0.493 km
+    11    19 (1.06)  820.702 km +/- 18.09 km (80.92°)   4h 40.1m    44h 21.4m +/- 08.2m (6.2°)  20 m (0.10°) 0.447 km
+    13    23 (1.08)  691.534 km +/- 17.57 km (82.52°)   3h 50.8m    44h 14.2m +/- 15.2m (6.2°)  17 m (0.09°) 0.376 km
+    14    25 (1.09)  642.826 km +/- 16.38 km (83.09°)   3h 33.2m    44h 25.1m +/- 14.2m (6.2°)  16 m (0.08°) 0.349 km
+    16    29 (1.09)  556.210 km +/- 12.69 km (84.07°)   3h 03.4m    44h 18.9m +/- 03.4m (6.2°)  14 m (0.07°) 0.302 km
+    17    31 (1.10)  523.018 km +/- 11.43 km (84.44°)   2h 52.3m    44h 30.9m +/- 59.7m (6.2°)  13 m (0.06°) 0.283 km
+    19    35 (1.09)  461.116 km +/- 9.29 km (85.09°)   2h 32.3m    44h 25.1m +/- 52.6m (6.2°)  11 m (0.06°) 0.250 km
+    20    37 (1.09)  436.636 km +/- 8.50 km (85.34°)   2h 24.6m    44h 34.9m +/- 50.0m (6.2°)  11 m (0.05°) 0.236 km
+    22    41 (1.08)  389.818 km +/- 7.13 km (85.81°)   2h 10.2m    44h 29.5m +/- 44.8m (6.2°)  10 m (0.05°) 0.211 km
+    23    43 (1.08)  370.900 km +/- 6.61 km (85.99°)   2h 04.5m    44h 37.8m +/- 42.9m (6.2°)   9 m (0.05°) 0.201 km
+    25    47 (1.06)  334.036 km +/- 5.67 km (86.34°)   1h 53.7m    44h 32.8m +/- 39.1m (6.2°)   8 m (0.04°) 0.181 km
+    26    49 (1.06)  318.880 km +/- 5.31 km (86.49°)   1h 49.4m    44h 39.9m +/- 37.7m (6.2°)   8 m (0.04°) 0.172 km
+    28    53 (1.04)  288.694 km +/- 4.09 km (86.76°)   1h 41.0m    44h 35.4m +/- 30.5m (6.2°)   7 m (0.04°) 0.156 km
+    29    55 (1.04)  277.714 km +/- 2.00 km (86.86°)   1h 38.2m    44h 59.9m +/- 15.3m (6.2°)   7 m (0.03°) 0.150 km
+    31    59 (1.01)  250.138 km +/- 0.83 km (87.10°)   1h 30.8m    44h 37.4m +/- 06.6m (6.2°)   6 m (0.03°) 0.135 km
+[/code][/spoiler]
+

@@ -1,0 +1,211 @@
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Moon [AltLo1][/B][/SIZE][spoiler=Show AltLo1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Moon [AltLo2][/B][/SIZE][spoiler=Show AltLo2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+   129   257 (1.23)  449.240 km +/- 7.60 km (89.78°)   2h 32.5m   326h 35.3m +/- 42.4m (6.7°)   2 m (0.01°) 0.263 km
+   130   259 (1.21)  439.835 km +/- 11.20 km (89.78°)   2h 31.3m   326h 35.9m +/- 31.8m (6.7°)   2 m (0.01°) 0.258 km
+   131   261 (1.19)  428.697 km +/- 11.06 km (89.78°)   2h 30.2m   326h 36.5m +/- 30.7m (6.7°)   2 m (0.01°) 0.251 km
+   132   263 (1.16)  417.704 km +/- 10.92 km (89.78°)   2h 29.0m   326h 37.0m +/- 29.6m (6.7°)   2 m (0.01°) 0.245 km
+   133   265 (1.14)  406.846 km +/- 10.78 km (89.78°)   2h 27.9m   326h 37.6m +/- 28.4m (6.7°)   2 m (0.01°) 0.238 km
+   134   267 (1.12)  396.127 km +/- 10.65 km (89.79°)   2h 26.8m   326h 38.2m +/- 27.3m (6.7°)   2 m (0.01°) 0.232 km
+   135   269 (1.10)  385.543 km +/- 10.52 km (89.79°)   2h 25.7m   326h 38.7m +/- 26.2m (6.7°)   1 m (0.01°) 0.226 km
+   136   271 (1.08)  375.084 km +/- 10.39 km (89.79°)   2h 24.6m   326h 39.3m +/- 25.1m (6.7°)   1 m (0.01°) 0.220 km
+   137   273 (1.05)  364.757 km +/- 10.26 km (89.79°)   2h 23.6m   326h 39.8m +/- 24.1m (6.7°)   1 m (0.01°) 0.214 km
+   138   275 (1.03)  354.551 km +/- 10.13 km (89.79°)   2h 22.5m   326h 40.3m +/- 23.0m (6.7°)   1 m (0.01°) 0.208 km
+   139   277 (1.01)  344.471 km +/- 10.02 km (89.79°)   2h 21.5m   326h 40.8m +/- 22.0m (6.7°)   1 m (0.01°) 0.202 km
+   140   279 (1.00)  336.682 km +/- 5.56 km (89.79°)   2h 21.0m   327h 43.1m +/- 19.2m (6.7°)   1 m (0.01°) 0.197 km
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Moon [AltHi1][/B][/SIZE][spoiler=Show AltHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Moon [AltHi2][/B][/SIZE][spoiler=Show AltHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+   113   225 (1.24)  648.553 km +/- 3.35 km (89.75°)   2h 54.1m   326h 24.5m +/- 41.2m (5.3°)   2 m (0.01°) 0.302 km
+   114   227 (1.19)  639.900 km +/- 13.96 km (89.75°)   2h 52.6m   326h 25.3m +/- 53.3m (5.3°)   2 m (0.01°) 0.294 km
+   115   229 (1.15)  626.038 km +/- 13.76 km (89.75°)   2h 51.1m   326h 26.0m +/- 51.8m (5.1°)   2 m (0.01°) 0.281 km
+   116   231 (1.11)  612.378 km +/- 13.56 km (89.75°)   2h 49.6m   326h 26.8m +/- 50.3m (5.0°)   2 m (0.01°) 0.269 km
+   117   233 (1.07)  598.915 km +/- 13.37 km (89.75°)   2h 48.1m   326h 27.5m +/- 48.8m (4.9°)   2 m (0.01°) 0.257 km
+   118   235 (1.04)  585.640 km +/- 13.18 km (89.76°)   2h 46.7m   326h 28.2m +/- 47.4m (4.8°)   2 m (0.01°) 0.246 km
+   119   237 (1.00)  572.905 km +/- 12.29 km (89.76°)   2h 45.4m   326h 37.9m +/- 37.0m (4.7°)   2 m (0.01°) 0.235 km
+   120   239 (1.00)  565.220 km +/- 1.67 km (89.76°)   2h 45.1m   328h 52.7m +/- 21.5m (4.6°)   2 m (0.01°) 0.229 km
+[/code][/spoiler]
+
+[size=4][b]Moon [AltHi3][/B][/SIZE][spoiler=Show AltHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+   130   259 (1.20)  438.850 km +/- 9.24 km (89.78°)   2h 31.3m   326h 35.9m +/- 05.2m (6.7°)   2 m (0.01°) 0.258 km
+   131   261 (1.15)  428.695 km +/- 11.05 km (89.78°)   2h 30.2m   326h 36.5m +/- 30.6m (6.6°)   2 m (0.01°) 0.246 km
+   132   263 (1.10)  417.707 km +/- 10.91 km (89.78°)   2h 29.0m   326h 37.1m +/- 29.4m (6.4°)   2 m (0.01°) 0.234 km
+   133   265 (1.05)  406.848 km +/- 10.79 km (89.78°)   2h 27.9m   326h 37.6m +/- 28.4m (6.2°)   1 m (0.01°) 0.222 km
+   134   267 (1.00)  396.130 km +/- 10.64 km (89.79°)   2h 26.8m   326h 38.2m +/- 27.2m (6.1°)   1 m (0.01°) 0.210 km
+   135   269 (1.00)  390.048 km +/- 1.50 km (89.79°)   2h 26.6m   328h 44.0m +/- 20.9m (6.0°)   1 m (0.01°) 0.204 km
+[/code][/spoiler]
+
+[size=4][b]Moon [ResLo0][/B][/SIZE][spoiler=Show ResLo0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+   119   237 (1.23)  569.700 km +/- 7.28 km (89.76°)   2h 45.3m   326h 29.0m +/- 32.9m (5.7°)   2 m (0.01°) 0.286 km
+   120   239 (1.22)  559.650 km +/- 12.80 km (89.76°)   2h 43.9m   326h 29.7m +/- 44.4m (5.7°)   2 m (0.01°) 0.281 km
+   121   241 (1.20)  546.925 km +/- 12.62 km (89.76°)   2h 42.6m   326h 30.3m +/- 43.1m (5.7°)   2 m (0.01°) 0.275 km
+   122   243 (1.18)  534.375 km +/- 12.45 km (89.76°)   2h 41.2m   326h 31.0m +/- 41.7m (5.7°)   2 m (0.01°) 0.268 km
+   123   245 (1.16)  522.000 km +/- 12.29 km (89.77°)   2h 39.9m   326h 31.6m +/- 40.5m (5.7°)   2 m (0.01°) 0.262 km
+   124   247 (1.14)  509.788 km +/- 12.11 km (89.77°)   2h 38.6m   326h 32.3m +/- 39.1m (5.7°)   2 m (0.01°) 0.256 km
+   125   249 (1.11)  496.975 km +/- 11.96 km (89.77°)   2h 37.4m   326h 32.9m +/- 37.9m (5.7°)   2 m (0.01°) 0.248 km
+   126   251 (1.06)  485.850 km +/- 11.81 km (89.77°)   2h 36.1m   326h 33.5m +/- 36.7m (5.6°)   2 m (0.01°) 0.237 km
+   127   253 (1.02)  474.119 km +/- 11.64 km (89.77°)   2h 34.9m   326h 34.1m +/- 35.4m (5.4°)   1 m (0.01°) 0.226 km
+   128   255 (1.00)  465.019 km +/- 6.54 km (89.77°)   2h 34.2m   327h 41.1m +/- 27.8m (5.3°)   1 m (0.01°) 0.217 km
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Moon [ResHi0][/B][/SIZE][spoiler=Show ResHi0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Moon [ResHi1][/B][/SIZE][spoiler=Show ResHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Moon [ResHi2][/B][/SIZE][spoiler=Show ResHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Moon [ResHi3][/B][/SIZE][spoiler=Show ResHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+   119   237 (1.23)  569.697 km +/- 7.28 km (89.76°)   2h 45.3m   326h 28.9m +/- 33.0m (5.7°)   2 m (0.01°) 0.286 km
+   120   239 (1.22)  559.648 km +/- 12.80 km (89.76°)   2h 43.9m   326h 29.6m +/- 44.5m (5.7°)   2 m (0.01°) 0.281 km
+   121   241 (1.20)  546.927 km +/- 12.63 km (89.76°)   2h 42.6m   326h 30.3m +/- 43.2m (5.7°)   2 m (0.01°) 0.275 km
+   122   243 (1.18)  534.375 km +/- 12.45 km (89.76°)   2h 41.2m   326h 31.0m +/- 41.8m (5.7°)   2 m (0.01°) 0.268 km
+   123   245 (1.16)  522.000 km +/- 12.29 km (89.77°)   2h 39.9m   326h 31.6m +/- 40.5m (5.7°)   2 m (0.01°) 0.262 km
+   124   247 (1.14)  509.786 km +/- 12.12 km (89.77°)   2h 38.6m   326h 32.3m +/- 39.2m (5.7°)   2 m (0.01°) 0.256 km
+   125   249 (1.11)  497.735 km +/- 11.96 km (89.77°)   2h 37.4m   326h 32.9m +/- 37.9m (5.7°)   2 m (0.01°) 0.249 km
+   126   251 (1.06)  485.846 km +/- 11.80 km (89.77°)   2h 36.1m   326h 33.5m +/- 36.7m (5.6°)   2 m (0.01°) 0.237 km
+   127   253 (1.02)  474.114 km +/- 11.65 km (89.77°)   2h 34.9m   326h 34.1m +/- 35.4m (5.4°)   1 m (0.01°) 0.226 km
+   128   255 (1.00)  465.014 km +/- 6.54 km (89.77°)   2h 34.2m   327h 41.1m +/- 27.8m (5.3°)   1 m (0.01°) 0.217 km
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Moon [Multi1][/B][/SIZE][spoiler=Show Multi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Moon [Multi2][/B][/SIZE][spoiler=Show Multi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Moon [Multi3][/B][/SIZE][spoiler=Show Multi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+   130   259 (1.20)  438.851 km +/- 9.24 km (89.78°)   2h 31.3m   326h 35.9m +/- 05.3m (6.7°)   2 m (0.01°) 0.258 km
+   131   261 (1.15)  428.699 km +/- 11.06 km (89.78°)   2h 30.2m   326h 36.5m +/- 30.6m (6.6°)   2 m (0.01°) 0.246 km
+   132   263 (1.10)  417.707 km +/- 10.91 km (89.78°)   2h 29.0m   326h 37.1m +/- 29.4m (6.4°)   2 m (0.01°) 0.234 km
+   133   265 (1.05)  406.852 km +/- 10.78 km (89.78°)   2h 27.9m   326h 37.6m +/- 28.4m (6.2°)   1 m (0.01°) 0.222 km
+   134   267 (1.00)  396.127 km +/- 10.65 km (89.79°)   2h 26.8m   326h 38.2m +/- 27.3m (6.1°)   1 m (0.01°) 0.210 km
+   135   269 (1.00)  390.050 km +/- 1.50 km (89.79°)   2h 26.6m   328h 44.1m +/- 20.8m (6.0°)   1 m (0.01°) 0.204 km
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Moon [VisHi1][/B][/SIZE][spoiler=Show VisHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Moon [VisHi2][/B][/SIZE][spoiler=Show VisHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Moon [VisHi3][/B][/SIZE][spoiler=Show VisHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+   136   271 (1.23)  372.844 km +/- 5.89 km (89.79°)   2h 24.6m   326h 39.3m +/- 22.3m (7.7°)   2 m (0.01°) 0.250 km
+   137   273 (1.21)  364.753 km +/- 10.26 km (89.79°)   2h 23.6m   326h 39.8m +/- 24.0m (7.7°)   2 m (0.01°) 0.244 km
+   138   275 (1.18)  354.556 km +/- 10.12 km (89.79°)   2h 22.5m   326h 40.4m +/- 22.8m (7.7°)   2 m (0.01°) 0.237 km
+   139   277 (1.15)  344.476 km +/- 10.02 km (89.79°)   2h 21.5m   326h 40.8m +/- 22.0m (7.7°)   2 m (0.01°) 0.231 km
+   140   279 (1.13)  334.513 km +/- 9.89 km (89.79°)   2h 20.5m   326h 41.3m +/- 20.9m (7.7°)   1 m (0.01°) 0.224 km
+   141   281 (1.10)  324.667 km +/- 9.77 km (89.80°)   2h 19.5m   326h 41.8m +/- 19.9m (7.7°)   1 m (0.01°) 0.217 km
+   142   283 (1.08)  314.947 km +/- 9.66 km (89.80°)   2h 18.5m   326h 42.3m +/- 18.9m (7.7°)   1 m (0.01°) 0.211 km
+   143   285 (1.05)  305.335 km +/- 9.55 km (89.80°)   2h 17.6m   326h 42.8m +/- 18.0m (7.7°)   1 m (0.01°) 0.205 km
+   144   287 (1.03)  295.831 km +/- 9.43 km (89.80°)   2h 16.6m   326h 43.3m +/- 16.9m (7.7°)   1 m (0.01°) 0.198 km
+   145   289 (1.00)  286.534 km +/- 9.15 km (89.80°)   2h 15.7m   326h 46.3m +/- 13.5m (7.7°)   1 m (0.01°) 0.192 km
+   146   291 (1.00)  280.891 km +/- 1.76 km (89.80°)   2h 15.5m   328h 33.5m +/- 25.9m (7.7°)   1 m (0.01°) 0.188 km
+[/code][/spoiler]
+

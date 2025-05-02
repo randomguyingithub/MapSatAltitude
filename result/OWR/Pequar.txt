@@ -1,0 +1,490 @@
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [AltLo1][/B][/SIZE][spoiler=Show AltLo1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [AltLo2][/B][/SIZE][spoiler=Show AltLo2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [AltHi1][/B][/SIZE][spoiler=Show AltHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [AltHi2][/B][/SIZE][spoiler=Show AltHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Pequar [AltHi3][/B][/SIZE][spoiler=Show AltHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    49    88 (1.01)  808.300 km +/- 2.40 km (83.47°)   1h 21.7m    59h 56.1m +/- 08.2m (4.0°)   4 m (0.02°) 0.283 km
+    54    97 (1.11)  806.095 km +/- 1.98 km (83.49°)   1h 21.6m    65h 56.5m +/- 07.4m (4.0°)   4 m (0.02°) 0.282 km
+    59   106 (1.21)  804.280 km +/- 1.64 km (83.50°)   1h 21.4m    71h 56.8m +/- 06.7m (4.0°)   4 m (0.02°) 0.281 km
+    61   110 (1.20)  765.280 km +/- 0.99 km (83.74°)   1h 18.5m    71h 56.6m +/- 04.2m (4.0°)   4 m (0.02°) 0.267 km
+    56   101 (1.10)  763.855 km +/- 1.84 km (83.75°)   1h 18.3m    65h 56.3m +/- 07.1m (4.0°)   4 m (0.02°) 0.267 km
+    51    92 (1.00)  762.535 km +/- 0.77 km (83.76°)   1h 18.3m    60h 01.0m +/- 02.7m (4.0°)   4 m (0.02°) 0.266 km
+[/code][/spoiler]
+
+[size=4][b]Pequar [ResLo0][/B][/SIZE][spoiler=Show ResLo0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    15    13 (1.03) 7315.450 km +/- 16.48 km (0.00°)  15h 40.1m   101h 50.7m +/- 18.7m (3.0°)  29 m (0.14°) 1.942 km
+    17    15 (1.16) 7145.225 km +/- 16.65 km (0.00°)  15h 10.6m   113h 49.2m +/- 21.6m (3.0°)  28 m (0.14°) 1.896 km
+    15    14 (1.00) 6620.000 km +/- 17.25 km (0.00°)  13h 41.4m    95h 49.9m +/- 20.1m (3.0°)  26 m (0.13°) 1.753 km
+    16    15 (1.07) 6578.825 km +/- 17.30 km (0.00°)  13h 34.6m   101h 49.2m +/- 21.6m (3.0°)  26 m (0.13°) 1.742 km
+    17    16 (1.13) 6542.725 km +/- 17.32 km (0.00°)  13h 28.6m   107h 48.5m +/- 23.0m (3.0°)  25 m (0.13°) 1.733 km
+    18    17 (1.19) 6510.775 km +/- 17.38 km (0.00°)  13h 23.3m   113h 47.8m +/- 24.5m (3.0°)  25 m (0.13°) 1.724 km
+    19    20 (1.19) 5530.525 km +/- 18.68 km (25.84°)  10h 46.6m   107h 45.6m +/- 28.8m (3.0°)  21 m (0.11°) 1.460 km
+    18    19 (1.13) 5505.900 km +/- 18.73 km (26.53°)  10h 42.8m   101h 46.3m +/- 27.3m (3.0°)  21 m (0.11°) 1.454 km
+    17    18 (1.06) 5478.475 km +/- 18.75 km (27.27°)  10h 38.6m    95h 47.1m +/- 25.9m (3.0°)  21 m (0.11°) 1.446 km
+    19    21 (1.15) 5100.075 km +/- 17.55 km (35.95°)   9h 41.5m   101h 46.2m +/- 27.4m (3.0°)  20 m (0.10°) 1.345 km
+    17    19 (1.02) 5002.675 km +/- 19.50 km (37.86°)   9h 27.0m    89h 46.4m +/- 27.3m (3.0°)  19 m (0.10°) 1.319 km
+    20    23 (1.17) 4753.175 km +/- 18.00 km (42.36°)   8h 50.7m   101h 43.5m +/- 29.9m (3.0°)  18 m (0.09°) 1.253 km
+    19    22 (1.11) 4695.350 km +/- 18.95 km (43.33°)   8h 42.4m    95h 45.9m +/- 29.9m (3.0°)  18 m (0.09°) 1.237 km
+    21    25 (1.20) 4455.925 km +/- 16.62 km (47.14°)   8h 08.6m   101h 47.2m +/- 29.2m (3.0°)  17 m (0.09°) 1.174 km
+    19    23 (1.06) 4310.250 km +/- 19.10 km (49.31°)   7h 48.1m    89h 43.4m +/- 30.4m (3.0°)  17 m (0.08°) 1.135 km
+    22    27 (1.21) 4193.300 km +/- 11.55 km (50.97°)   7h 32.6m   101h 49.7m +/- 21.3m (3.0°)  16 m (0.08°) 1.104 km
+    21    26 (1.15) 4118.575 km +/- 15.82 km (52.01°)   7h 22.1m    95h 47.4m +/- 27.9m (3.0°)  16 m (0.08°) 1.084 km
+    23    29 (1.23) 3961.175 km +/- 12.90 km (54.12°)   7h 01.1m   101h 46.4m +/- 25.0m (3.0°)  15 m (0.08°) 1.042 km
+    19    24 (1.01) 3945.250 km +/- 18.93 km (54.33°)   6h 58.6m    83h 43.3m +/- 30.3m (3.0°)  15 m (0.08°) 1.038 km
+    24    31 (1.25) 3752.900 km +/- 8.15 km (56.78°)   6h 34.0m   101h 46.4m +/- 16.5m (3.0°)  15 m (0.07°) 0.987 km
+    23    30 (1.18) 3672.275 km +/- 9.90 km (57.77°)   6h 23.4m    95h 50.6m +/- 19.2m (3.0°)  14 m (0.07°) 0.966 km
+    22    29 (1.11) 3582.600 km +/- 13.40 km (58.85°)   6h 11.6m    89h 48.4m +/- 24.9m (3.0°)  14 m (0.07°) 0.942 km
+    23    31 (1.13) 3392.050 km +/- 12.00 km (61.07°)   5h 47.6m    89h 47.6m +/- 23.3m (3.0°)  13 m (0.07°) 0.892 km
+    25    34 (1.21) 3315.625 km +/- 8.00 km (61.93°)   5h 38.3m    95h 51.4m +/- 16.9m (3.0°)  13 m (0.06°) 0.871 km
+    23    32 (1.07) 3122.075 km +/- 11.72 km (64.05°)   5h 14.4m    83h 49.9m +/- 22.7m (3.0°)  12 m (0.06°) 0.820 km
+    27    38 (1.23) 3022.625 km +/- 8.40 km (65.10°)   5h 02.6m    95h 49.6m +/- 19.1m (3.0°)  12 m (0.06°) 0.794 km
+    22    31 (1.00) 3013.950 km +/- 8.90 km (65.19°)   5h 01.5m    77h 53.9m +/- 16.5m (3.0°)  12 m (0.06°) 0.792 km
+    26    37 (1.16) 2928.800 km +/- 9.05 km (66.08°)   4h 51.4m    89h 51.4m +/- 19.8m (3.0°)  11 m (0.06°) 0.769 km
+    23    33 (1.01) 2857.075 km +/- 11.55 km (66.81°)   4h 42.9m    77h 47.2m +/- 22.3m (3.0°)  11 m (0.06°) 0.750 km
+    25    36 (1.09) 2827.675 km +/- 9.85 km (67.11°)   4h 39.5m    83h 51.5m +/- 20.6m (3.0°)  11 m (0.05°) 0.742 km
+    29    42 (1.25) 2775.500 km +/- 4.22 km (67.63°)   4h 33.8m    95h 49.9m +/- 10.3m (3.0°)  11 m (0.05°) 0.729 km
+    24    35 (1.02) 2718.075 km +/- 8.18 km (68.20°)   4h 27.0m    77h 51.9m +/- 16.4m (3.0°)  10 m (0.05°) 0.714 km
+    28    41 (1.18) 2683.750 km +/- 4.40 km (68.53°)   4h 23.3m    89h 56.8m +/- 10.3m (3.0°)  10 m (0.05°) 0.705 km
+    25    37 (1.03) 2590.975 km +/- 9.35 km (69.43°)   4h 12.5m    77h 50.7m +/- 19.5m (3.0°)  10 m (0.05°) 0.680 km
+    27    40 (1.10) 2582.300 km +/- 7.97 km (69.51°)   4h 11.6m    83h 51.4m +/- 17.9m (3.0°)  10 m (0.05°) 0.678 km
+    29    43 (1.18) 2574.825 km +/- 6.92 km (69.58°)   4h 10.8m    89h 51.9m +/- 16.7m (3.0°)  10 m (0.05°) 0.676 km
+    31    47 (1.20) 2381.450 km +/- 5.95 km (71.39°)   3h 49.5m    89h 52.1m +/- 15.2m (3.0°)   9 m (0.05°) 0.625 km
+    29    44 (1.12) 2375.050 km +/- 6.83 km (71.45°)   3h 48.7m    83h 51.6m +/- 16.4m (3.0°)   9 m (0.05°) 0.623 km
+    27    41 (1.04) 2367.675 km +/- 7.85 km (71.52°)   3h 47.9m    77h 50.9m +/- 17.5m (3.0°)   9 m (0.05°) 0.621 km
+    28    43 (1.04) 2268.425 km +/- 2.33 km (72.41°)   3h 37.4m    77h 55.0m +/- 05.4m (3.0°)   9 m (0.04°) 0.595 km
+    31    48 (1.13) 2196.800 km +/- 6.08 km (73.05°)   3h 29.6m    83h 50.9m +/- 15.4m (3.0°)   8 m (0.04°) 0.576 km
+    29    45 (1.05) 2178.950 km +/- 6.88 km (73.20°)   3h 27.7m    77h 53.1m +/- 16.3m (3.0°)   8 m (0.04°) 0.572 km
+    34    53 (1.21) 2137.875 km +/- 4.97 km (73.56°)   3h 23.5m    89h 52.2m +/- 13.8m (3.0°)   8 m (0.04°) 0.561 km
+    30    47 (1.05) 2094.250 km +/- 6.33 km (73.94°)   3h 18.9m    77h 53.2m +/- 15.5m (3.0°)   8 m (0.04°) 0.549 km
+    33    52 (1.14) 2042.350 km +/- 5.20 km (74.38°)   3h 13.6m    83h 52.3m +/- 13.9m (3.0°)   8 m (0.04°) 0.536 km
+    31    49 (1.06) 2014.625 km +/- 1.02 km (74.62°)   3h 10.9m    77h 57.4m +/- 02.6m (3.0°)   8 m (0.04°) 0.528 km
+    32    51 (1.06) 1941.800 km +/- 5.47 km (75.23°)   3h 03.3m    77h 53.5m +/- 14.1m (3.0°)   7 m (0.04°) 0.509 km
+    37    59 (1.22) 1936.975 km +/- 4.10 km (75.27°)   3h 02.9m    89h 54.3m +/- 12.2m (3.0°)   7 m (0.04°) 0.508 km
+    38    61 (1.22) 1877.000 km +/- 3.88 km (75.77°)   2h 56.8m    89h 53.7m +/- 11.8m (3.0°)   7 m (0.04°) 0.492 km
+    33    53 (1.06) 1872.475 km +/- 5.12 km (75.80°)   2h 56.3m    77h 52.7m +/- 13.6m (3.0°)   7 m (0.04°) 0.491 km
+    34    55 (1.06) 1805.475 km +/- 1.00 km (76.35°)   2h 49.9m    77h 51.9m +/- 02.7m (3.0°)   7 m (0.03°) 0.473 km
+    37    60 (1.15) 1786.025 km +/- 4.08 km (76.50°)   2h 47.8m    83h 54.6m +/- 12.0m (3.0°)   7 m (0.03°) 0.468 km
+    35    57 (1.06) 1746.800 km +/- 4.60 km (76.82°)   2h 44.0m    77h 52.9m +/- 12.8m (3.0°)   7 m (0.03°) 0.458 km
+    36    59 (1.07) 1687.925 km +/- 1.65 km (77.28°)   2h 38.4m    77h 52.8m +/- 04.7m (3.0°)   7 m (0.03°) 0.443 km
+    38    63 (1.07) 1584.050 km +/- 3.83 km (78.09°)   2h 28.4m    77h 54.6m +/- 11.4m (3.0°)   6 m (0.03°) 0.415 km
+    41    68 (1.15) 1580.450 km +/- 3.30 km (78.12°)   2h 28.1m    83h 54.9m +/- 10.6m (3.0°)   6 m (0.03°) 0.414 km
+    44    73 (1.23) 1577.350 km +/- 2.85 km (78.14°)   2h 27.8m    89h 55.3m +/- 09.8m (3.0°)   6 m (0.03°) 0.414 km
+    46    77 (1.23) 1494.900 km +/- 2.60 km (78.77°)   2h 20.1m    89h 55.2m +/- 09.3m (3.0°)   6 m (0.03°) 0.392 km
+    43    72 (1.15) 1492.100 km +/- 2.98 km (78.79°)   2h 19.9m    83h 54.9m +/- 09.9m (3.0°)   6 m (0.03°) 0.391 km
+    40    67 (1.07) 1488.850 km +/- 3.48 km (78.81°)   2h 19.5m    77h 54.4m +/- 10.8m (3.0°)   6 m (0.03°) 0.390 km
+    45    77 (1.06) 1288.050 km +/- 2.75 km (80.28°)   2h 01.4m    77h 55.7m +/- 09.3m (3.0°)   5 m (0.02°) 0.338 km
+    52    89 (1.22) 1286.625 km +/- 0.05 km (80.29°)   2h 01.4m    90h 04.1m +/- 00.2m (3.0°)   5 m (0.02°) 0.337 km
+    46    79 (1.06) 1252.625 km +/- 2.30 km (80.53°)   1h 58.4m    77h 55.1m +/- 07.9m (3.0°)   5 m (0.02°) 0.328 km
+    51    89 (1.04) 1097.650 km +/- 2.15 km (81.60°)   1h 45.1m    77h 56.1m +/- 08.0m (3.0°)   4 m (0.02°) 0.288 km
+    55    96 (1.12) 1095.650 km +/- 1.82 km (81.61°)   1h 44.9m    83h 56.5m +/- 07.4m (3.0°)   4 m (0.02°) 0.287 km
+    59   103 (1.20) 1093.900 km +/- 1.60 km (81.63°)   1h 44.8m    89h 56.7m +/- 06.9m (3.0°)   4 m (0.02°) 0.287 km
+    61   107 (1.20) 1046.850 km +/- 1.50 km (81.94°)   1h 40.9m    89h 56.6m +/- 06.7m (3.0°)   4 m (0.02°) 0.274 km
+    57   100 (1.12) 1045.225 km +/- 1.73 km (81.95°)   1h 40.7m    83h 56.3m +/- 07.1m (3.0°)   4 m (0.02°) 0.274 km
+    53    93 (1.04) 1043.350 km +/- 1.98 km (81.96°)   1h 40.6m    77h 56.0m +/- 07.6m (3.0°)   4 m (0.02°) 0.273 km
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [ResHi0][/B][/SIZE][spoiler=Show ResHi0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [ResHi1][/B][/SIZE][spoiler=Show ResHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [ResHi2][/B][/SIZE][spoiler=Show ResHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [ResHi3][/B][/SIZE][spoiler=Show ResHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [Multi1][/B][/SIZE][spoiler=Show Multi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [Multi2][/B][/SIZE][spoiler=Show Multi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [Multi3][/B][/SIZE][spoiler=Show Multi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [VisHi1][/B][/SIZE][spoiler=Show VisHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [VisHi2][/B][/SIZE][spoiler=Show VisHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Pequar [VisHi3][/B][/SIZE][spoiler=Show VisHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    49    88 (1.01)  808.300 km +/- 2.39 km (83.47°)   1h 21.7m    59h 56.1m +/- 08.1m (4.0°)   4 m (0.02°) 0.283 km
+    54    97 (1.11)  806.104 km +/- 1.96 km (83.49°)   1h 21.6m    65h 56.5m +/- 07.3m (4.0°)   4 m (0.02°) 0.282 km
+    59   106 (1.21)  804.286 km +/- 1.64 km (83.50°)   1h 21.4m    71h 56.8m +/- 06.7m (4.0°)   4 m (0.02°) 0.281 km
+    61   110 (1.20)  765.298 km +/- 0.99 km (83.74°)   1h 18.5m    71h 56.6m +/- 04.2m (4.0°)   4 m (0.02°) 0.267 km
+    56   101 (1.10)  763.858 km +/- 1.84 km (83.75°)   1h 18.3m    65h 56.3m +/- 07.1m (4.0°)   4 m (0.02°) 0.267 km
+    51    92 (1.00)  762.544 km +/- 0.77 km (83.76°)   1h 18.3m    60h 01.0m +/- 02.7m (4.0°)   4 m (0.02°) 0.266 km
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [AltLo1][/B][/SIZE][spoiler=Show AltLo1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [AltLo2][/B][/SIZE][spoiler=Show AltLo2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [AltHi1][/B][/SIZE][spoiler=Show AltHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [AltHi2][/B][/SIZE][spoiler=Show AltHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Pequar [AltHi3][/B][/SIZE][spoiler=Show AltHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    49    88 (1.01)  808.300 km +/- 2.40 km (83.47°)   1h 21.7m    59h 56.1m +/- 08.2m (4.0°)   4 m (0.02°) 0.283 km
+    54    97 (1.11)  806.095 km +/- 1.98 km (83.49°)   1h 21.6m    65h 56.5m +/- 07.4m (4.0°)   4 m (0.02°) 0.282 km
+    59   106 (1.21)  804.280 km +/- 1.64 km (83.50°)   1h 21.4m    71h 56.8m +/- 06.7m (4.0°)   4 m (0.02°) 0.281 km
+    61   110 (1.20)  765.280 km +/- 0.99 km (83.74°)   1h 18.5m    71h 56.6m +/- 04.2m (4.0°)   4 m (0.02°) 0.267 km
+    56   101 (1.10)  763.855 km +/- 1.84 km (83.75°)   1h 18.3m    65h 56.3m +/- 07.1m (4.0°)   4 m (0.02°) 0.267 km
+    51    92 (1.00)  762.535 km +/- 0.77 km (83.76°)   1h 18.3m    60h 01.0m +/- 02.7m (4.0°)   4 m (0.02°) 0.266 km
+[/code][/spoiler]
+
+[size=4][b]Pequar [ResLo0][/B][/SIZE][spoiler=Show ResLo0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    15    13 (1.03) 7315.450 km +/- 16.48 km (0.00°)  15h 40.1m   101h 50.7m +/- 18.7m (3.0°)  29 m (0.14°) 1.942 km
+    17    15 (1.16) 7145.225 km +/- 16.65 km (0.00°)  15h 10.6m   113h 49.2m +/- 21.6m (3.0°)  28 m (0.14°) 1.896 km
+    15    14 (1.00) 6620.000 km +/- 17.25 km (0.00°)  13h 41.4m    95h 49.9m +/- 20.1m (3.0°)  26 m (0.13°) 1.753 km
+    16    15 (1.07) 6578.825 km +/- 17.30 km (0.00°)  13h 34.6m   101h 49.2m +/- 21.6m (3.0°)  26 m (0.13°) 1.742 km
+    17    16 (1.13) 6542.725 km +/- 17.32 km (0.00°)  13h 28.6m   107h 48.5m +/- 23.0m (3.0°)  25 m (0.13°) 1.733 km
+    18    17 (1.19) 6510.775 km +/- 17.38 km (0.00°)  13h 23.3m   113h 47.8m +/- 24.5m (3.0°)  25 m (0.13°) 1.724 km
+    19    20 (1.19) 5530.525 km +/- 18.68 km (25.84°)  10h 46.6m   107h 45.6m +/- 28.8m (3.0°)  21 m (0.11°) 1.460 km
+    18    19 (1.13) 5505.900 km +/- 18.73 km (26.53°)  10h 42.8m   101h 46.3m +/- 27.3m (3.0°)  21 m (0.11°) 1.454 km
+    17    18 (1.06) 5478.475 km +/- 18.75 km (27.27°)  10h 38.6m    95h 47.1m +/- 25.9m (3.0°)  21 m (0.11°) 1.446 km
+    19    21 (1.15) 5100.075 km +/- 17.55 km (35.95°)   9h 41.5m   101h 46.2m +/- 27.4m (3.0°)  20 m (0.10°) 1.345 km
+    17    19 (1.02) 5002.675 km +/- 19.50 km (37.86°)   9h 27.0m    89h 46.4m +/- 27.3m (3.0°)  19 m (0.10°) 1.319 km
+    20    23 (1.17) 4753.175 km +/- 18.00 km (42.36°)   8h 50.7m   101h 43.5m +/- 29.9m (3.0°)  18 m (0.09°) 1.253 km
+    19    22 (1.11) 4695.350 km +/- 18.95 km (43.33°)   8h 42.4m    95h 45.9m +/- 29.9m (3.0°)  18 m (0.09°) 1.237 km
+    21    25 (1.20) 4455.925 km +/- 16.62 km (47.14°)   8h 08.6m   101h 47.2m +/- 29.2m (3.0°)  17 m (0.09°) 1.174 km
+    19    23 (1.06) 4310.250 km +/- 19.10 km (49.31°)   7h 48.1m    89h 43.4m +/- 30.4m (3.0°)  17 m (0.08°) 1.135 km
+    22    27 (1.21) 4193.300 km +/- 11.55 km (50.97°)   7h 32.6m   101h 49.7m +/- 21.3m (3.0°)  16 m (0.08°) 1.104 km
+    21    26 (1.15) 4118.575 km +/- 15.82 km (52.01°)   7h 22.1m    95h 47.4m +/- 27.9m (3.0°)  16 m (0.08°) 1.084 km
+    23    29 (1.23) 3961.175 km +/- 12.90 km (54.12°)   7h 01.1m   101h 46.4m +/- 25.0m (3.0°)  15 m (0.08°) 1.042 km
+    19    24 (1.01) 3945.250 km +/- 18.93 km (54.33°)   6h 58.6m    83h 43.3m +/- 30.3m (3.0°)  15 m (0.08°) 1.038 km
+    24    31 (1.25) 3752.900 km +/- 8.15 km (56.78°)   6h 34.0m   101h 46.4m +/- 16.5m (3.0°)  15 m (0.07°) 0.987 km
+    23    30 (1.18) 3672.275 km +/- 9.90 km (57.77°)   6h 23.4m    95h 50.6m +/- 19.2m (3.0°)  14 m (0.07°) 0.966 km
+    22    29 (1.11) 3582.600 km +/- 13.40 km (58.85°)   6h 11.6m    89h 48.4m +/- 24.9m (3.0°)  14 m (0.07°) 0.942 km
+    23    31 (1.13) 3392.050 km +/- 12.00 km (61.07°)   5h 47.6m    89h 47.6m +/- 23.3m (3.0°)  13 m (0.07°) 0.892 km
+    25    34 (1.21) 3315.625 km +/- 8.00 km (61.93°)   5h 38.3m    95h 51.4m +/- 16.9m (3.0°)  13 m (0.06°) 0.871 km
+    23    32 (1.07) 3122.075 km +/- 11.72 km (64.05°)   5h 14.4m    83h 49.9m +/- 22.7m (3.0°)  12 m (0.06°) 0.820 km
+    27    38 (1.23) 3022.625 km +/- 8.40 km (65.10°)   5h 02.6m    95h 49.6m +/- 19.1m (3.0°)  12 m (0.06°) 0.794 km
+    22    31 (1.00) 3013.950 km +/- 8.90 km (65.19°)   5h 01.5m    77h 53.9m +/- 16.5m (3.0°)  12 m (0.06°) 0.792 km
+    26    37 (1.16) 2928.800 km +/- 9.05 km (66.08°)   4h 51.4m    89h 51.4m +/- 19.8m (3.0°)  11 m (0.06°) 0.769 km
+    23    33 (1.01) 2857.075 km +/- 11.55 km (66.81°)   4h 42.9m    77h 47.2m +/- 22.3m (3.0°)  11 m (0.06°) 0.750 km
+    25    36 (1.09) 2827.675 km +/- 9.85 km (67.11°)   4h 39.5m    83h 51.5m +/- 20.6m (3.0°)  11 m (0.05°) 0.742 km
+    29    42 (1.25) 2775.500 km +/- 4.22 km (67.63°)   4h 33.8m    95h 49.9m +/- 10.3m (3.0°)  11 m (0.05°) 0.729 km
+    24    35 (1.02) 2718.075 km +/- 8.18 km (68.20°)   4h 27.0m    77h 51.9m +/- 16.4m (3.0°)  10 m (0.05°) 0.714 km
+    28    41 (1.18) 2683.750 km +/- 4.40 km (68.53°)   4h 23.3m    89h 56.8m +/- 10.3m (3.0°)  10 m (0.05°) 0.705 km
+    25    37 (1.03) 2590.975 km +/- 9.35 km (69.43°)   4h 12.5m    77h 50.7m +/- 19.5m (3.0°)  10 m (0.05°) 0.680 km
+    27    40 (1.10) 2582.300 km +/- 7.97 km (69.51°)   4h 11.6m    83h 51.4m +/- 17.9m (3.0°)  10 m (0.05°) 0.678 km
+    29    43 (1.18) 2574.825 km +/- 6.92 km (69.58°)   4h 10.8m    89h 51.9m +/- 16.7m (3.0°)  10 m (0.05°) 0.676 km
+    31    47 (1.20) 2381.450 km +/- 5.95 km (71.39°)   3h 49.5m    89h 52.1m +/- 15.2m (3.0°)   9 m (0.05°) 0.625 km
+    29    44 (1.12) 2375.050 km +/- 6.83 km (71.45°)   3h 48.7m    83h 51.6m +/- 16.4m (3.0°)   9 m (0.05°) 0.623 km
+    27    41 (1.04) 2367.675 km +/- 7.85 km (71.52°)   3h 47.9m    77h 50.9m +/- 17.5m (3.0°)   9 m (0.05°) 0.621 km
+    28    43 (1.04) 2268.425 km +/- 2.33 km (72.41°)   3h 37.4m    77h 55.0m +/- 05.4m (3.0°)   9 m (0.04°) 0.595 km
+    31    48 (1.13) 2196.800 km +/- 6.08 km (73.05°)   3h 29.6m    83h 50.9m +/- 15.4m (3.0°)   8 m (0.04°) 0.576 km
+    29    45 (1.05) 2178.950 km +/- 6.88 km (73.20°)   3h 27.7m    77h 53.1m +/- 16.3m (3.0°)   8 m (0.04°) 0.572 km
+    34    53 (1.21) 2137.875 km +/- 4.97 km (73.56°)   3h 23.5m    89h 52.2m +/- 13.8m (3.0°)   8 m (0.04°) 0.561 km
+    30    47 (1.05) 2094.250 km +/- 6.33 km (73.94°)   3h 18.9m    77h 53.2m +/- 15.5m (3.0°)   8 m (0.04°) 0.549 km
+    33    52 (1.14) 2042.350 km +/- 5.20 km (74.38°)   3h 13.6m    83h 52.3m +/- 13.9m (3.0°)   8 m (0.04°) 0.536 km
+    31    49 (1.06) 2014.625 km +/- 1.02 km (74.62°)   3h 10.9m    77h 57.4m +/- 02.6m (3.0°)   8 m (0.04°) 0.528 km
+    32    51 (1.06) 1941.800 km +/- 5.47 km (75.23°)   3h 03.3m    77h 53.5m +/- 14.1m (3.0°)   7 m (0.04°) 0.509 km
+    37    59 (1.22) 1936.975 km +/- 4.10 km (75.27°)   3h 02.9m    89h 54.3m +/- 12.2m (3.0°)   7 m (0.04°) 0.508 km
+    38    61 (1.22) 1877.000 km +/- 3.88 km (75.77°)   2h 56.8m    89h 53.7m +/- 11.8m (3.0°)   7 m (0.04°) 0.492 km
+    33    53 (1.06) 1872.475 km +/- 5.12 km (75.80°)   2h 56.3m    77h 52.7m +/- 13.6m (3.0°)   7 m (0.04°) 0.491 km
+    34    55 (1.06) 1805.475 km +/- 1.00 km (76.35°)   2h 49.9m    77h 51.9m +/- 02.7m (3.0°)   7 m (0.03°) 0.473 km
+    37    60 (1.15) 1786.025 km +/- 4.08 km (76.50°)   2h 47.8m    83h 54.6m +/- 12.0m (3.0°)   7 m (0.03°) 0.468 km
+    35    57 (1.06) 1746.800 km +/- 4.60 km (76.82°)   2h 44.0m    77h 52.9m +/- 12.8m (3.0°)   7 m (0.03°) 0.458 km
+    36    59 (1.07) 1687.925 km +/- 1.65 km (77.28°)   2h 38.4m    77h 52.8m +/- 04.7m (3.0°)   7 m (0.03°) 0.443 km
+    38    63 (1.07) 1584.050 km +/- 3.83 km (78.09°)   2h 28.4m    77h 54.6m +/- 11.4m (3.0°)   6 m (0.03°) 0.415 km
+    41    68 (1.15) 1580.450 km +/- 3.30 km (78.12°)   2h 28.1m    83h 54.9m +/- 10.6m (3.0°)   6 m (0.03°) 0.414 km
+    44    73 (1.23) 1577.350 km +/- 2.85 km (78.14°)   2h 27.8m    89h 55.3m +/- 09.8m (3.0°)   6 m (0.03°) 0.414 km
+    46    77 (1.23) 1494.900 km +/- 2.60 km (78.77°)   2h 20.1m    89h 55.2m +/- 09.3m (3.0°)   6 m (0.03°) 0.392 km
+    43    72 (1.15) 1492.100 km +/- 2.98 km (78.79°)   2h 19.9m    83h 54.9m +/- 09.9m (3.0°)   6 m (0.03°) 0.391 km
+    40    67 (1.07) 1488.850 km +/- 3.48 km (78.81°)   2h 19.5m    77h 54.4m +/- 10.8m (3.0°)   6 m (0.03°) 0.390 km
+    45    77 (1.06) 1288.050 km +/- 2.75 km (80.28°)   2h 01.4m    77h 55.7m +/- 09.3m (3.0°)   5 m (0.02°) 0.338 km
+    52    89 (1.22) 1286.625 km +/- 0.05 km (80.29°)   2h 01.4m    90h 04.1m +/- 00.2m (3.0°)   5 m (0.02°) 0.337 km
+    46    79 (1.06) 1252.625 km +/- 2.30 km (80.53°)   1h 58.4m    77h 55.1m +/- 07.9m (3.0°)   5 m (0.02°) 0.328 km
+    51    89 (1.04) 1097.650 km +/- 2.15 km (81.60°)   1h 45.1m    77h 56.1m +/- 08.0m (3.0°)   4 m (0.02°) 0.288 km
+    55    96 (1.12) 1095.650 km +/- 1.82 km (81.61°)   1h 44.9m    83h 56.5m +/- 07.4m (3.0°)   4 m (0.02°) 0.287 km
+    59   103 (1.20) 1093.900 km +/- 1.60 km (81.63°)   1h 44.8m    89h 56.7m +/- 06.9m (3.0°)   4 m (0.02°) 0.287 km
+    61   107 (1.20) 1046.850 km +/- 1.50 km (81.94°)   1h 40.9m    89h 56.6m +/- 06.7m (3.0°)   4 m (0.02°) 0.274 km
+    57   100 (1.12) 1045.225 km +/- 1.73 km (81.95°)   1h 40.7m    83h 56.3m +/- 07.1m (3.0°)   4 m (0.02°) 0.274 km
+    53    93 (1.04) 1043.350 km +/- 1.98 km (81.96°)   1h 40.6m    77h 56.0m +/- 07.6m (3.0°)   4 m (0.02°) 0.273 km
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [ResHi0][/B][/SIZE][spoiler=Show ResHi0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [ResHi1][/B][/SIZE][spoiler=Show ResHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [ResHi2][/B][/SIZE][spoiler=Show ResHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [ResHi3][/B][/SIZE][spoiler=Show ResHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [Multi1][/B][/SIZE][spoiler=Show Multi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [Multi2][/B][/SIZE][spoiler=Show Multi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [Multi3][/B][/SIZE][spoiler=Show Multi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [VisHi1][/B][/SIZE][spoiler=Show VisHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Pequar [VisHi2][/B][/SIZE][spoiler=Show VisHi2 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Pequar [VisHi3][/B][/SIZE][spoiler=Show VisHi3 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    49    88 (1.01)  808.300 km +/- 2.39 km (83.47°)   1h 21.7m    59h 56.1m +/- 08.1m (4.0°)   4 m (0.02°) 0.283 km
+    54    97 (1.11)  806.104 km +/- 1.96 km (83.49°)   1h 21.6m    65h 56.5m +/- 07.3m (4.0°)   4 m (0.02°) 0.282 km
+    59   106 (1.21)  804.286 km +/- 1.64 km (83.50°)   1h 21.4m    71h 56.8m +/- 06.7m (4.0°)   4 m (0.02°) 0.281 km
+    61   110 (1.20)  765.298 km +/- 0.99 km (83.74°)   1h 18.5m    71h 56.6m +/- 04.2m (4.0°)   4 m (0.02°) 0.267 km
+    56   101 (1.10)  763.858 km +/- 1.84 km (83.75°)   1h 18.3m    65h 56.3m +/- 07.1m (4.0°)   4 m (0.02°) 0.267 km
+    51    92 (1.00)  762.544 km +/- 0.77 km (83.76°)   1h 18.3m    60h 01.0m +/- 02.7m (4.0°)   4 m (0.02°) 0.266 km
+[/code][/spoiler]
+

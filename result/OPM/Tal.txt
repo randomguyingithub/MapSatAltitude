@@ -1,0 +1,69 @@
+[size=4][b]Tal [AltLo1][/B][/SIZE][spoiler=Show AltLo1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    31    55 (1.08)   37.395 km +/- 0.20 km (82.68°)   1h 43.5m    47h 24.9m +/- 14.7m (4.2°)   7 m (0.04°) 13.69 m
+    32    57 (1.04)   35.954 km +/- 0.17 km (82.95°)   1h 39.7m    47h 22.7m +/- 12.7m (4.0°)   7 m (0.03°) 12.65 m
+    39    70 (1.09)   33.270 km +/- 0.13 km (83.44°)   1h 32.9m    54h 12.8m +/- 11.6m (3.7°)   6 m (0.03°) 10.83 m
+    44    79 (1.22)   33.152 km +/- 0.10 km (83.46°)   1h 32.7m    61h 00.8m +/- 10.2m (3.7°)   6 m (0.03°) 10.75 m
+    46    83 (1.15)   31.360 km +/- 0.10 km (83.78°)   1h 28.2m    61h 00.4m +/- 09.8m (3.5°)   5 m (0.03°) 9.62 m
+    41    74 (1.02)   31.252 km +/- 0.12 km (83.79°)   1h 27.9m    54h 12.4m +/- 11.0m (3.5°)   5 m (0.02°) 9.55 m
+[/code][/spoiler]
+
+
+No sweet spots found! Try increasing the threshold.
+
+
+[size=4][b]Tal [ResLo0][/B][/SIZE][spoiler=Show ResLo0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+[/code][/spoiler]
+
+[size=4][b]Tal [ResHi0][/B][/SIZE][spoiler=Show ResHi0 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    59   106 (1.01)   32.919 km +/- 0.06 km (83.50°)   1h 32.1m    81h 23.8m +/- 07.6m (2.3°)   3 m (0.02°) 6.59 m
+    64   115 (1.09)   32.889 km +/- 0.00 km (83.50°)   1h 32.1m    88h 18.0m +/- 00.4m (2.3°)   3 m (0.02°) 6.58 m
+[/code][/spoiler]
+
+[size=4][b]Tal [ResHi1][/B][/SIZE][spoiler=Show ResHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    59   106 (1.08)   32.919 km +/- 0.06 km (83.50°)   1h 32.1m    81h 23.8m +/- 07.7m (2.5°)   4 m (0.02°) 7.06 m
+    64   115 (1.17)   32.888 km +/- 0.00 km (83.51°)   1h 32.1m    88h 17.9m +/- 00.4m (2.5°)   4 m (0.02°) 7.05 m
+    61   110 (1.03)   31.567 km +/- 0.03 km (83.74°)   1h 28.8m    81h 23.6m +/- 04.7m (2.4°)   3 m (0.02°) 6.49 m
+[/code][/spoiler]
+
+[size=4][b]Tal [Multi1][/B][/SIZE][spoiler=Show Multi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    19    34 (1.12)   34.381 km +/- 0.56 km (83.24°)   1h 35.2m    26h 58.6m +/- 24.4m (7.7°)  12 m (0.06°) 23.25 m
+    26    47 (1.24)   30.563 km +/- 0.08 km (83.91°)   1h 26.2m    33h 46.9m +/- 04.7m (6.8°)  10 m (0.05°) 18.33 m
+    21    38 (1.00)   30.483 km +/- 0.08 km (83.93°)   1h 26.1m    27h 15.0m +/- 03.7m (6.8°)   9 m (0.05°) 18.24 m
+    27    49 (1.19)   29.238 km +/- 0.01 km (84.14°)   1h 23.1m    33h 55.6m +/- 00.8m (6.5°)   9 m (0.04°) 16.77 m
+    29    53 (1.06)   26.645 km +/- 0.25 km (84.58°)   1h 16.6m    33h 49.5m +/- 15.5m (6.0°)   7 m (0.04°) 13.91 m
+    37    68 (1.15)   24.505 km +/- 0.15 km (84.94°)   1h 11.7m    40h 37.2m +/- 12.0m (5.5°)   6 m (0.03°) 11.76 m
+[/code][/spoiler]
+
+[size=4][b]Tal [VisHi1][/B][/SIZE][spoiler=Show VisHi1 Orbits][code]
+
+              Altitude                Inc.       Orbital   Time to Scan          Eff.  Swath  Resolution
+  UEQx Sidelap  Ideal     +/- Error               Period      Total    +/- Error  FOV   Width (deg)   (km)
+====================================================================================================================
+    31    55 (1.08)   37.395 km +/- 0.20 km (82.68°)   1h 43.5m    47h 24.9m +/- 14.7m (4.2°)   7 m (0.04°) 13.69 m
+    32    57 (1.04)   35.954 km +/- 0.17 km (82.95°)   1h 39.7m    47h 22.7m +/- 12.7m (4.0°)   7 m (0.03°) 12.65 m
+    39    70 (1.09)   33.270 km +/- 0.13 km (83.44°)   1h 32.9m    54h 12.8m +/- 11.6m (3.7°)   6 m (0.03°) 10.83 m
+    44    79 (1.22)   33.152 km +/- 0.10 km (83.46°)   1h 32.7m    61h 00.7m +/- 10.3m (3.7°)   6 m (0.03°) 10.75 m
+    46    83 (1.15)   31.360 km +/- 0.10 km (83.78°)   1h 28.2m    61h 00.4m +/- 09.8m (3.5°)   5 m (0.03°) 9.62 m
+    41    74 (1.02)   31.252 km +/- 0.12 km (83.79°)   1h 27.9m    54h 12.4m +/- 11.0m (3.5°)   5 m (0.02°) 9.55 m
+[/code][/spoiler]
+
